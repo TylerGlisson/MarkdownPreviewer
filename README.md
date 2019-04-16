@@ -5,7 +5,7 @@ Motivation
 This project was created for FreeCodeCamp as a skills challenge. 
 
 Screenshots
-![alt text](https://raw.githubusercontent.com/TylerGlisson/MarkdownPreviewer/master/src/to/img.png)
+![alt text](https://raw.githubusercontent.com/TylerGlisson/MarkdownPreviewer/master/src/screenshot.png)
 
 
 Tech/framework used
