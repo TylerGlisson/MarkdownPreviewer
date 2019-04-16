@@ -6,7 +6,7 @@ This is a simple mardown language previewer where the user can input markdown la
 This project was created for FreeCodeCamp as a skills challenge. 
 
 ## Screenshots
-![alt text](https://raw.githubusercontent.com/TylerGlisson/MarkdownPreviewer/master/src/screenshot.png)
+![Screenshot of markdown previewer app](https://raw.githubusercontent.com/TylerGlisson/MarkdownPreviewer/master/src/screenshot.png)
 
 ## Tech/framework used
 [React](https://github.com/facebook/react), [Create React App](https://github.com/facebook/create-react-app), Javascript, HTML, CSS
