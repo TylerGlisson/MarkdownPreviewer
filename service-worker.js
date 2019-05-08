@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/markdownSite/precache-manifest.5e324cf8eca310a9791e605efe1eaf48.js"
+  "/MarkdownPreviewer/precache-manifest.3c978184ec2ec32c073e3d6eab70d38d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/markdownSite/index.html", {
+workbox.routing.registerNavigationRoute("/MarkdownPreviewer/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
